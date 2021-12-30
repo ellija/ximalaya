@@ -1,6 +1,12 @@
 # ximalaya
 喜马拉雅免费专辑批量下载
 
+## 启动
+python3 main.py
+
+## python版本
+本人使用版本python3.7，其他版本没测试过，估计也是可以的。
+
 **xm-sign生成算法**
 
 ```python
